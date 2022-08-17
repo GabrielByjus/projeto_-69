@@ -1,0 +1,14 @@
+#imagem{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.travem_mainDiv{
+    border: 1px solid lightgrey;
+}
+.travem_mainDiv img{
+    width: 100%;
+}
+.travem_mainDiv h5, .travem_mainDiv p{
+    margin: 20px;
+}
